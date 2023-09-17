@@ -1,0 +1,16 @@
+.list{
+    text-align: center;
+    list-style: none;
+}
+.list .contactlist{
+    display:inline-block;
+    padding:10px;
+    margin:0px 20px;
+    border-radius:50%;
+}
+.list .contactlist:hover{
+    box-shadow: 0px 0px 10px 4px red;
+}
+#contact-us .contactpara{
+    color:white;
+}
